@@ -6,7 +6,7 @@ import { AiOutlineShoppingCart } from "react-icons/ai";
 
 const Header = () => {
   return (
-    <div className='bg-primary  h-18 pb-0 '>
+    <div className='bg-primary  h-auto pb-0 overflow-hidden '>
 
       
       <div><h1 className=' pl-10  pt-4 items-center size-6 font-extrabold text-3xl font-serif tracking-wide text-white'>Purity </h1>
